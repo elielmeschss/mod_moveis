@@ -1,0 +1,62 @@
+.newsletter-inner {
+    background: #F6F7FB;
+    margin: 60px auto;
+    text-align: center;
+    height: 480px;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+
+    h2 {
+        font-size: 2.25rem;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Rubik', serif;
+        margin-bottom: 30px;
+    }
+
+    form {
+        input {
+            font-family: 'Rubik', serif;
+            width: 400px;
+            height: 50px;
+            padding: 0 20px;
+            border: none;
+        }
+
+        input:focus-visible {
+            outline: none;
+        }
+
+        button {
+            width: 180px;
+            height: 50px;
+            border: none;
+            font-family: 'Rubik', serif;
+            color: #fff;
+            background: #734223;
+        }
+    }
+}
+
+@media screen and (max-width: 768px){
+    .newsletter-inner{
+        h2{
+            font-size: 2.1rem;
+        }
+
+        form{
+            input{
+                width: 380px;
+            }
+
+            button{
+                width: 380px;
+            }
+        }
+    }
+}
