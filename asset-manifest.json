@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mod_moveis/static/css/main.d1c1bea1.css",
+    "main.js": "/mod_moveis/static/js/main.af43f2c2.js",
+    "static/media/full-banner.png": "/mod_moveis/static/media/full-banner.f6c8af9d8b9782afb9ef.png",
+    "static/media/black-chair.png": "/mod_moveis/static/media/black-chair.60464cce746dfc39cc2a.png",
+    "static/media/green-sofa.png": "/mod_moveis/static/media/green-sofa.e72cabdf203437649d82.png",
+    "static/media/blue-chair.png": "/mod_moveis/static/media/blue-chair.29a76ec3ef1f748c2d4d.png",
+    "static/media/yellow-sofa.png": "/mod_moveis/static/media/yellow-sofa.a3b57f09de5f380f90d7.png",
+    "index.html": "/mod_moveis/index.html",
+    "main.d1c1bea1.css.map": "/mod_moveis/static/css/main.d1c1bea1.css.map",
+    "main.af43f2c2.js.map": "/mod_moveis/static/js/main.af43f2c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c1bea1.css",
+    "static/js/main.af43f2c2.js"
+  ]
+}
